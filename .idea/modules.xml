@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DVHSample.iml" filepath="$PROJECT_DIR$/DVHSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polygons.iml" filepath="$PROJECT_DIR$/Polygons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpchart/mpchart.iml" filepath="$PROJECT_DIR$/mpchart/mpchart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mpchart2/mpchart2.iml" filepath="$PROJECT_DIR$/mpchart2/mpchart2.iml" />
+    </modules>
+  </component>
+</project>
